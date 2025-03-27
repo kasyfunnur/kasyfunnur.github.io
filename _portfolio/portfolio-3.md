@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 3"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "New Osase"
+excerpt: " OSASE (Operation Supervisory & Alert System For Electrical) is a monitoring system developed by PT Telkom to monitor and retrieve measurement data via sensors that have been installe<br/><img src='/images/newosase.png'>"
 collection: portfolio
 ---
 
