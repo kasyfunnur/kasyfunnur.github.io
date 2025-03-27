@@ -4,7 +4,6 @@ excerpt: "ATEMIS (ATElir Managmement Information System) is the main application
 collection: portfolio
 ---
 
-<img src='/images/dashboard_monitoring.png'>
 
 # About
 
@@ -12,13 +11,19 @@ New Atemis adalah aplikasi utama yang digunakan oleh Divisi MSC (Managed Service
 
 # Dashboard
 
-## Detail Monitoring
+# Preview Aplication
 
-<img src='/images/dashbiard_detail.png'>
+## Preoder
 
-## Detail RTU
+<img src='/images/preorder.png'>
 
-<img src='/images/detail_RTU.png'>
+## Order
+
+<img src='/images/orderss.png'>
+
+## Transaction
+
+<img src='/images/transaksi.png'>
 
 # Functional - Non Functional Requirements
 
