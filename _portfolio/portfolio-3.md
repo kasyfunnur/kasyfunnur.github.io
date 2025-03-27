@@ -5,25 +5,25 @@ collection: portfolio
 ---
 
 
-<img src='/images/index_tls.png'>
+<img src='/images/dashboard_monitoring.png'>
 
 # About
 
 New ​OSASE (Operation Supervisory and Alert System for Electrical) adalah sistem yang dikembangkan oleh PT Telkom Indonesia untuk memantau dan memberikan peringatan dini terhadap gangguan pada sistem Civil Mechanical Electrical (CME). Sistem ini berfungsi untuk memonitor pasokan listrik dari PLN dan Diesel Engine Generator (DEG), suhu dan kelembaban ruangan, serta volume bahan bakar pada tangki suplai DEG. OSASE membantu dalam mendeteksi dan mencegah gangguan yang dapat mempengaruhi layanan telekomunikasi.
 
-# Dashboard
+# Preview Aplication
 
-## Monitoring
+## Preoder
 
-<img src='/images/dashboard_monitoring.png'>
+<img src='/images/preorder.png'>
 
-## Detail Monitoring
+## Order
 
-<img src='/images/dashbiard_detail.png'>
+<img src='/images/orderss.png'>
 
-## Detail RTU
+## Transaction
 
-<img src='/images/detail_RTU.png'>
+<img src='/images/transaksi.png'>
 
 # Functional - Non Functional Requirements
 
