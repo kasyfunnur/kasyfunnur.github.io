@@ -9,6 +9,7 @@ collection: portfolio
 <img src='/images/index_tls.png'>
 
 # About
+
 **Toyota Logistic System (TLS)** adalah sistem yang mengelola seluruh proses logistik Toyota, termasuk distribusi barang dan kendaraan dari pabrik ke dealer atau pelanggan akhir. Untuk meningkatkan efisiensi dan kepatuhan terhadap regulasi perpajakan, Toyota membutuhkan **modul e-Faktur** yang memungkinkan pembuatan, pengelolaan, dan pelacakan faktur elektronik secara otomatis dan sesuai dengan standar pajak yang berlaku.
 
 ## Functional Requirements
@@ -32,16 +33,23 @@ collection: portfolio
 |3    | Skalabilitas                | Sistem harus mampu menangani peningkatan jumlah faktur setiap tahun   |
 |4    | Kepatuhan                   | Harus sesuai dengan regulasi pajak nasional dan internasional         |
 
-# Technology Stack 
+# Technology Stack
+
 ## Frontend
- - HTML
- - CSS
- - Javascript
- - Angular Js
+
+- HTML
+- CSS
+- Javascript
+- Angular Js
+
 ## Backend
- - .Net 8
+
+- .Net 8
+
 ## Database
+
 - SQL Server
 
 # Business Proccess
+
 <img src='/images/tls_faktur.png'>
