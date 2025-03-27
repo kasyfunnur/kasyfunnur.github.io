@@ -20,25 +20,37 @@ Sistem ini cocok digunakan oleh berbagai skala bisnis, mulai dari startup hingga
 
 <img src='/images/index_workbench.png'>
 
+Modul Workbench berfungsi sebagai dashboard utama yang memberikan gambaran menyeluruh tentang operasional HR dalam perusahaan. Modul ini menyediakan akses cepat ke berbagai fitur yang digunakan oleh tim HR serta membantu dalam pengambilan keputusan berbasis data
+
 ## Module Workforce
 
 <img src='/images/index_workforce.png'>
+
+Modul Workforce merupakan inti dari sistem LinovHR yang bertanggung jawab dalam pengelolaan data karyawan. Dengan modul ini, perusahaan dapat menyimpan dan mengelola informasi karyawan secara sistematis, termasuk data pribadi, jabatan, kontrak kerja, dan riwayat pekerjaan
 
 ## Module Organization Design
 
 <img src='/images/index_organization.png'>
 
+Modul ini membantu perusahaan dalam merancang dan mengelola struktur organisasi dengan lebih baik, termasuk pengaturan hierarki jabatan, departemen, dan alokasi tenaga kerja sesuai kebutuhan bisnis
+
 ## Module Reimbursement
 
 <img src='/images/index_reimbursement.png'>
+
+Modul ini dirancang untuk mengelola penggantian biaya atau klaim reimbursement yang diajukan oleh karyawan, baik untuk perjalanan dinas, pembelian alat kerja, maupun biaya lainnya yang terkait dengan pekerjaan
 
 ## Module Loan
 
 <img src='/images/index_loan.png'>
 
+Modul Loan memungkinkan perusahaan untuk mengatur dan mengelola pinjaman karyawan, baik dalam bentuk pinjaman dana, fasilitas cicilan, atau program kesejahteraan karyawan lainnya
+
 ## Module Recruitment
 
-<img src='/images/index+recruitment.png'>
+<img src='/images/index_recruitment.png'>
+
+Modul ini membantu HR dalam mengelola proses perekrutan karyawan baru dengan sistem yang lebih efisien dan terorganisir
 
 # Technology Stack
 
@@ -56,3 +68,5 @@ Sistem ini cocok digunakan oleh berbagai skala bisnis, mulai dari startup hingga
 ## Database
 
 - Postgree Sql
+- Redis
+- MongoDB

@@ -51,6 +51,7 @@ collection: portfolio
 ## Database
 
 - SQL Server
+- Redis
 
 # Business Proccess
 
