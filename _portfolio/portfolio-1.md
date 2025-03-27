@@ -13,15 +13,21 @@ collection: portfolio
 
 # Functional - Non-Functional Requirements
 ## Functional Requirements
-| No  | Functional                | Description                                                           |
-|-----|---------------------------|-----------------------------------------------------------------------|
-|1| Pembuatan Faktur Otomatis | Sistem harus dapat menghasilkan e-Faktur berdasarkan transaksi logisti|
-|2| Validasi Data             | Sistem harus memeriksa kesesuaian data sebelum menerbitkan faktur     |
-|3| Integrasi dengan Pajak    | 	Modul harus terhubung dengan sistem perpajakan nasional seperti DJP Indonesia
-|4| Penyimpanan Faktur    | 	Semua faktur harus disimpan dalam sistem terpusat dan dapat diakses kapan saja 
-|5| Pelacakan & Audit    | 	Sistem harus menyediakan log transaksi untuk keperluan audit 
-|6| Notifikasi & Pengiriman    | 	Faktur dapat dikirimkan otomatis ke distributor atau pelanggan 
-|7| Integrasi Pembayaran    | 	e-Faktur harus dapat dikaitkan dengan sistem pembayaran Toyota 
+| Entry            | Item   |                                                              |
+| --------         | ------ | ------------------------------------------------------------ |
+| [John Doe](#)    | 2016   | Description of the item in the list                          |
+| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+
+| No  | Functional                | Description                                                                     |
+|-----|---------------------------|---------------------------------------------------------------------------------|
+|1    | Pembuatan Faktur Otomatis | Sistem harus dapat menghasilkan e-Faktur berdasarkan transaksi logisti          |
+|2    | Validasi Data             | Sistem harus memeriksa kesesuaian data sebelum menerbitkan faktur               |
+|3    | Integrasi dengan Pajak    | Modul harus terhubung dengan sistem perpajakan nasional seperti DJP Indonesia   |
+|4    | Penyimpanan Faktur        | Semua faktur harus disimpan dalam sistem terpusat dan dapat diakses kapan saja  |
+|5    | Pelacakan & Audit         | Sistem harus menyediakan log transaksi untuk keperluan audit                    |
+|6    | Notifikasi & Pengiriman   | Faktur dapat dikirimkan otomatis ke distributor atau pelanggan                  |
+|7    | Integrasi Pembayaran      | e-Faktur harus dapat dikaitkan dengan sistem pembayaran Toyota                  |
 
 ## Non - Functional Requirements
 | No  | Functional                | Description                                                           |
