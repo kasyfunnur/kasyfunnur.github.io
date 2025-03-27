@@ -11,14 +11,7 @@ collection: portfolio
 # About
 **Toyota Logistic System (TLS)** adalah sistem yang mengelola seluruh proses logistik Toyota, termasuk distribusi barang dan kendaraan dari pabrik ke dealer atau pelanggan akhir. Untuk meningkatkan efisiensi dan kepatuhan terhadap regulasi perpajakan, Toyota membutuhkan **modul e-Faktur** yang memungkinkan pembuatan, pengelolaan, dan pelacakan faktur elektronik secara otomatis dan sesuai dengan standar pajak yang berlaku.
 
-# Functional - Non-Functional Requirements
 ## Functional Requirements
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
 | No  | Functional                | Description                                                                     |
 |-----|---------------------------|---------------------------------------------------------------------------------|
 |1    | Pembuatan Faktur Otomatis | Sistem harus dapat menghasilkan e-Faktur berdasarkan transaksi logisti          |
@@ -30,12 +23,12 @@ collection: portfolio
 |7    | Integrasi Pembayaran      | e-Faktur harus dapat dikaitkan dengan sistem pembayaran Toyota                  |
 
 ## Non - Functional Requirements
-| No  | Functional                | Description                                                           |
-|-----|---------------------------|-----------------------------------------------------------------------|
-|1| Keamanan | Data e-Faktur harus terenkripsi dan memiliki kontrol akses |
-|2| Ketersediaan | Sistem harus memiliki uptime minimal **99.5%** |
-|3| Skalabilitas | 	Sistem harus mampu menangani peningkatan jumlah faktur setiap tahun
-|4| Kepatuhan | Harus sesuai dengan regulasi pajak nasional dan internasional
+| No  | Non Functional              | Description                                                           |
+|-----|-----------------------------|-----------------------------------------------------------------------|
+|1    | Keamanan                    | Data e-Faktur harus terenkripsi dan memiliki kontrol akses            |
+|2    | Ketersediaan                | Sistem harus memiliki uptime minimal **99.5%**                        |
+|3    | Skalabilitas                | Sistem harus mampu menangani peningkatan jumlah faktur setiap tahun   |
+|4    | Kepatuhan                   | Harus sesuai dengan regulasi pajak nasional dan internasional         |
 
 # Technology Stack 
 ## Frontend
