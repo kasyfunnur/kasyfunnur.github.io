@@ -9,8 +9,6 @@ collection: portfolio
 
 New Atemis adalah aplikasi utama yang digunakan oleh Divisi MSC (Managed Service Center) PT. Telkom Indonesia untuk mengelola berbagai aspek operasional terkait pelanggan, pesanan, suku cadang, dan pelaporan. Sistem ini berfungsi sebagai solusi end-to-end dalam mendukung layanan telekomunikasi yang dikelola oleh PT. Telkom, memastikan efisiensi dalam manajemen pesanan dan inventaris.
 
-# Dashboard
-
 # Preview Aplication
 
 ## Preoder
