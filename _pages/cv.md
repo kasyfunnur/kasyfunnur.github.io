@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
 # Education
 ### Nov 2013 - Nov 2019 | Bachelor of Information Systems
 STMIK Abulyatama - GPA: 3.24
